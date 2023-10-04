@@ -1,1 +1,1 @@
-# csc485/projects/tests/hw10/__init__.py
+# csc485/__init__.py
