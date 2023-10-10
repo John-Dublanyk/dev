@@ -1,5 +1,5 @@
 import pytest
-from hw11 import get_formal_name
+from projects.hw11.hw11 import get_formal_name
 
 @pytest.mark.parametrize('key', [
     ('apple', 'Malus domestica'),
